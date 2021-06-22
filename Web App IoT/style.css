@@ -1,0 +1,56 @@
+/* Website template by freewebsitetemplates.com */
+html {
+	font-family: Consolas;
+}
+body {
+        background: #00B4DB;  /* fallback for old browsers */
+        background: -webkit-linear-gradient(to top, #0083B0, #00B4DB);  /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(to top, #0083B0, #00B4DB); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	margin: 0;
+        width: 100vw;
+        height: 100vh;
+}
+
+table
+{ 
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+body table{
+        font-family: Consolas;
+	font-size: 20px;
+	font-weight: normal;
+	color: black;
+        border-spacing: 10px 5px; 
+        border: 2px solid black;
+        border-collapse: collapse;
+}
+
+#registro{
+    clear: both;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#state{
+    font-size: 20px;
+    float: left;
+    padding-left: 10px;
+}
+#number{
+    font-size: 60px;
+}
+
+#detections{
+    font-size: 20px;
+    padding-right: 10px;
+}
+
+#Boton{
+    margin-top: 10px;
+}
+
+
+
