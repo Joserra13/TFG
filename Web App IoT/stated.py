@@ -1,5 +1,4 @@
 import serial
-import sys
 
 arduino = serial.Serial('/dev/ttyACM0', 9600)
 
